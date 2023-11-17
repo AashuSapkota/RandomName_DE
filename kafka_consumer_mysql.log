@@ -1,0 +1,23 @@
+2023-11-09 14:52:37,440 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2023-11-09 14:52:37,440 - INFO - Probing node bootstrap-0 broker version
+2023-11-09 14:52:37,441 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2023-11-09 14:52:37,543 - INFO - Broker version identified as 2.5.0
+2023-11-09 14:52:37,543 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-11-09 14:52:37,543 - WARNING - group_id is None: disabling auto-commit.
+2023-11-09 14:52:37,543 - INFO - Updating subscribed topics to: ('users_topic',)
+2023-11-09 14:52:37,569 - INFO - Updated partition assignment: [TopicPartition(topic='users_topic', partition=0)]
+2023-11-09 14:52:37,569 - INFO - <BrokerConnection node_id=0 host=aashu-Nitro-AN515-45:9092 <connecting> [IPv4 ('127.0.1.1', 9092)]>: connecting to aashu-Nitro-AN515-45:9092 [('127.0.1.1', 9092) IPv4]
+2023-11-09 14:52:37,569 - INFO - <BrokerConnection node_id=0 host=aashu-Nitro-AN515-45:9092 <connecting> [IPv4 ('127.0.1.1', 9092)]>: Connection complete.
+2023-11-09 14:52:37,569 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2023-11-09 14:52:37,724 - INFO - Message processed successfully!
+2023-11-09 14:52:37,726 - INFO - Message processed successfully!
+2023-11-09 14:52:37,728 - INFO - Message processed successfully!
+2023-11-09 14:52:38,341 - INFO - Message processed successfully!
+2023-11-09 14:52:48,805 - INFO - Message processed successfully!
+2023-11-09 14:52:59,199 - INFO - Message processed successfully!
+2023-11-09 14:53:09,598 - INFO - Message processed successfully!
+2023-11-09 14:53:20,031 - INFO - Message processed successfully!
+2023-11-09 14:53:30,446 - INFO - Message processed successfully!
+2023-11-09 14:53:40,861 - INFO - Message processed successfully!
+2023-11-09 14:53:51,289 - INFO - Message processed successfully!
+2023-11-09 14:54:01,710 - INFO - Message processed successfully!

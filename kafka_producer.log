@@ -1,0 +1,22 @@
+2023-11-09 14:52:06,094 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2023-11-09 14:52:06,094 - INFO - Probing node bootstrap-0 broker version
+2023-11-09 14:52:06,095 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connection complete.
+2023-11-09 14:52:06,204 - INFO - Broker version identified as 2.5.0
+2023-11-09 14:52:06,204 - INFO - Set configuration api_version=(2, 5, 0) to skip auto check_version requests on startup
+2023-11-09 14:52:06,674 - INFO - Data published to Kafka
+2023-11-09 14:52:06,675 - INFO - <BrokerConnection node_id=0 host=aashu-Nitro-AN515-45:9092 <connecting> [IPv4 ('127.0.1.1', 9092)]>: connecting to aashu-Nitro-AN515-45:9092 [('127.0.1.1', 9092) IPv4]
+2023-11-09 14:52:06,675 - INFO - <BrokerConnection node_id=0 host=aashu-Nitro-AN515-45:9092 <connecting> [IPv4 ('127.0.1.1', 9092)]>: Connection complete.
+2023-11-09 14:52:06,675 - INFO - <BrokerConnection node_id=bootstrap-0 host=localhost:9092 <connected> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. 
+2023-11-09 14:52:17,110 - INFO - Data published to Kafka
+2023-11-09 14:52:27,908 - INFO - Data published to Kafka
+2023-11-09 14:52:38,334 - INFO - Data published to Kafka
+2023-11-09 14:52:48,797 - INFO - Data published to Kafka
+2023-11-09 14:52:59,191 - INFO - Data published to Kafka
+2023-11-09 14:53:09,592 - INFO - Data published to Kafka
+2023-11-09 14:53:20,022 - INFO - Data published to Kafka
+2023-11-09 14:53:30,439 - INFO - Data published to Kafka
+2023-11-09 14:53:40,854 - INFO - Data published to Kafka
+2023-11-09 14:53:51,282 - INFO - Data published to Kafka
+2023-11-09 14:54:01,696 - INFO - Data published to Kafka
+2023-11-09 14:54:11,704 - INFO - Closing the Kafka producer with 0 secs timeout.
+2023-11-09 14:54:11,704 - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
